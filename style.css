@@ -1,0 +1,27 @@
+.bg {
+    background-color: #F5F5DC;
+}
+
+.wow {
+    font-size: 2rem;
+}
+
+.so {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.much {
+    font-size: 1.25rem;
+}
+
+.fun {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.haha {
+   max-width: 50rem; 
+}
